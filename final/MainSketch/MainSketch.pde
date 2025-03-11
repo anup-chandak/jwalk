@@ -1,3 +1,17 @@
+/*  
+MIT License  
+
+Copyright (c) 2025 Anup Chandak  
+
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software... (same text as the LICENSE file)  
+*/  
+
+
+
+
+
+
 import com.hamoid.*;
 
 VideoExport videoExport;
